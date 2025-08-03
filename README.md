@@ -1,4 +1,8 @@
-# 🚀 PrepWise — LinkedIn Interview AI  
+<p align="center">
+  <img src="icon128.png" alt="PrepWise Logo" width="80"/>
+</p>
+<h1 align="center">PrepWise — LinkedIn Interview AI</h1>
+ 
 Transform LinkedIn job posts into **live, AI-powered mock interviews**. Practice your answers using your **voice**, receive **instant AI evaluation**, and listen to **human-like TTS playback** — all without ever leaving the job page.  
 
 ---
