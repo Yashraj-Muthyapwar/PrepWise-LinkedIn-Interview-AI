@@ -1,2 +1,2 @@
 # PrepWise-LinkedIn-Interview-AI
-Voice‑powered Chrome extension that turns LinkedIn job posts into live AI mock interviews with instant feedback, natural TTS, and privacy‑first design.
+Transform LinkedIn job posts into live, AI-powered mock interviews. Practice your answers using your voice, receive instant AI evaluation, and listen to human-like TTS playback — all without ever leaving the job page..
