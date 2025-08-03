@@ -59,7 +59,7 @@ Key Highlights:
 
 Install locally for development:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/prepwise-linkedin-interview-ai](https://github.com/Yashraj-Muthyapwar/PrepWise-LinkedIn-Interview-AI).git
+git clone https://github.com/Yashraj-Muthyapwar/PrepWise-LinkedIn-Interview-AI.git
 ```
 ## 🌐 Notes
 - No personal data is collected; all user responses remain in the browser.
