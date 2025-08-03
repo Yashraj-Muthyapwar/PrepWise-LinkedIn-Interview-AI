@@ -3,8 +3,15 @@ Transform LinkedIn job posts into **live, AI-powered mock interviews**. Practice
 
 ---
 
-## ⚡️ Tech Stack
-**Chrome Extension (Manifest V3)** · **JavaScript/HTML/CSS** · **OpenAI Whisper** · **GPT‑4o / GPT‑4o‑mini‑TTS** · **Local Storage** · **Secure API Handling**  
+## ⚡ Tech Stack
+
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-Manifest%20v3-blue?logo=google-chrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-Whisper%20%7C%20GPT--4o-412991?logo=openai&logoColor=white)
+![Secure API](https://img.shields.io/badge/Secure%20API%20Handling-Yes-blueviolet)
+![Privacy First](https://img.shields.io/badge/Privacy%20First-Local%20Processing-brightgreen)
 
 ---
 
